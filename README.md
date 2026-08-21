@@ -74,11 +74,11 @@
 
 | Project | Key Highlights | Core Tech |
 | :--- | :--- | :--- |
-| 📈 **[Stock Prediction System V2](https://github.com/NeoDaniyal)** | Walk-forward validation, Optuna hyperparameter tuning, ranking strategy backtesting, and SHAP interpretability. | `Python` `XGBoost` `PyTorch` `Optuna` `SHAP` |
-| 💳 **[Credit Card Fraud Detection](https://github.com/NeoDaniyal)** | High-imbalance binary classification optimization on 284k+ transaction records prioritizing PR-AUC curves. | `Python` `Scikit-Learn` `Imbalanced-Learn` |
-| 🏠 **[House Price Prediction](https://github.com/NeoDaniyal)** | Supervised regression system with outlier handling, non-linear feature engineering, and ensemble modeling. | `Python` `XGBoost` `Seaborn` `Pandas` |
-| 🍽️ **[Restaurant Recommendation](https://github.com/NeoDaniyal)** | Content-based filtering engine providing custom dining recommendations via user vector similarities. | `Python` `Cosine Similarity` `Pandas` |
-| 🍛 **[Cuisine Classification](https://github.com/NeoDaniyal)** | Text classification engine utilizing TF-IDF vectorization to map recipe ingredients to global cuisines. | `Python` `NLTK` `Scikit-Learn` |
+| 📈 **[Stock Prediction System V2]([https://github.com/NeoDaniyal](https://github.com/NeoDaniyal/ALPHA-V2-Quant-Terminal))** | Walk-forward validation, Optuna hyperparameter tuning, ranking strategy backtesting, and SHAP interpretability. | `Python` `XGBoost` `PyTorch` `Optuna` `SHAP` |
+| 💳 **[Credit Card Fraud Detection]([https://github.com/NeoDaniyal](https://github.com/NeoDaniyal/fraud-detection-api))** | High-imbalance binary classification optimization on 284k+ transaction records prioritizing PR-AUC curves. | `Python` `Scikit-Learn` `Imbalanced-Learn` |
+| 🛂 **[InsightSheild-AI]([https://github.com/NeoDaniyal](https://github.com/NeoDaniyal/-InsightShield-AI---Fake-News-Detection-System))** | Supervised regression system with outlier handling, non-linear feature engineering, and ensemble modeling. | `Python` `XGBoost` `Seaborn` `Pandas` |
+| 🍽️ **[Restaurant Recommendation]([https://github.com/NeoDaniyal](https://github.com/NeoDaniyal/restaurant-Recommender))** | Content-based filtering engine providing custom dining recommendations via user vector similarities. | `Python` `Cosine Similarity` `Pandas` |
+| 🍛 **[Cuisine Classification]([https://github.com/NeoDaniyal](https://github.com/NeoDaniyal/restaurant-rating-prediction))** | Text classification engine utilizing TF-IDF vectorization to map recipe ingredients to global cuisines. | `Python` `NLTK` `Scikit-Learn` |
 | 🌐 **[Full-Stack ML Web App](https://github.com/NeoDaniyal)** | Interactive web platform deploying predictive machine learning models to an end-user UI interface. | `Python` `Flask/FastAPI` `HTML/CSS` |
 
 ---
@@ -114,8 +114,8 @@
 
 | Project | Description | Key Tech |
 | :--- | :--- | :--- |
-| 📈 **[Stock Prediction System V2](https://github.com/NeoDaniyal)** | End-to-end ML pipeline with walk-forward validation, feature engineering, SHAP interpretability, and backtesting. | Python, XGBoost, PyTorch, yFinance, SHAP |
-| 💳 **[Credit Card Fraud Detection](https://github.com/NeoDaniyal)** | Binary classification on highly imbalanced data (284k+ records) optimizing Precision-Recall curves & ROC-AUC. | Python, Scikit-learn, Imbalanced-learn, Pandas |
+| 📈 **[Stock Prediction System V2]([https://github.com/NeoDaniyal](https://github.com/NeoDaniyal/ALPHA-V2-Quant-Terminal))** | End-to-end ML pipeline with walk-forward validation, feature engineering, SHAP interpretability, and backtesting. | Python, XGBoost, PyTorch, yFinance, SHAP |
+| 💳 **[Credit Card Fraud Detection]([https://github.com/NeoDaniyal](https://github.com/NeoDaniyal/fraud-detection-api))** | Binary classification on highly imbalanced data (284k+ records) optimizing Precision-Recall curves & ROC-AUC. | Python, Scikit-learn, Imbalanced-learn, Pandas |
 | 🏠 **[House Price Prediction](https://github.com/NeoDaniyal)** | Supervised regression system utilizing advanced feature transformation, outlier treatment, and ensemble modeling. | Python, XGBoost, Scikit-Learn, Seaborn |
 | 🍽️ **[Restaurant Recommendation System](https://github.com/NeoDaniyal)** | Content-based filtering engine providing tailored dining recommendations based on user preference vectors. | Python, Pandas, Scikit-Learn (Cosine Similarity) |
 | 🍛 **[Cuisine Classification](https://github.com/NeoDaniyal)** | Text classification pipeline using TF-IDF feature extraction to predict recipes/cuisines from ingredient lists. | Python, NLTK, Scikit-learn |
